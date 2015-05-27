@@ -3,9 +3,9 @@ User's Manual for NPG SeqQC v58.1+
 
 :Authors:
 
-  Jaime Tovar
+  jmtc
 
-:Version: 2015.05.26
+:Version: 2015.05.27
 
 .. contents:: Table of Contents
 
