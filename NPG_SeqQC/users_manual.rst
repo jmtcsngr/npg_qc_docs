@@ -15,12 +15,14 @@ Manual QC
 Changes to Manual QC 
 ~~~~~~~~~~~~~~~~~~~~
 
-This version includes changes which are expected to improve usability of the 
-application.  It allows to capture intention of the outcome of QC. We hope this 
-will prevent mistakes while checking the lanes and allow for a review before 
-committing to a final outcome. We also hope it will facilitate training by
-allowing new users to move between preliminary outcomes before making a final
-decision.
+This version includes changes part of a broader update which is being rolled 
+out in stages. It is expected these changes will improve usability regarding 
+the expected increase in the amount of data required to go through manual 
+quality checks. It allows to capture intention of the outcome of QC. We hope 
+this will prevent mistakes while checking the lanes and allow for a review 
+before committing to a final outcome. We also hope it will facilitate training 
+by allowing new users to move between preliminary outcomes before making a 
+final decision.
 
 Preliminary outcomes
 ++++++++++++++++++++
