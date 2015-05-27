@@ -103,7 +103,7 @@ or go back to *undecided*.
   Figure: Preliminary fail
   
 Other users of the application will not be able to see the widgets for QC, but 
-will be able to see preliminary decisions marked as stripped colours.
+will be able to see preliminary decisions marked as striped colours.
 
 .. figure:: images/08_preliminary_window.png
   :height: 100px
